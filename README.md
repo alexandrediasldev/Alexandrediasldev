@@ -2,7 +2,6 @@
 🎓 I'm a student in computer science engineering majoring in telecommunication at EPITA in Paris, France.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrediasldev&hide_border=true&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexandrediasldev&langs_count=8&hide=&hide_border=true&layout=compact)
 
 Find me there:
 [![](https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-dias)
